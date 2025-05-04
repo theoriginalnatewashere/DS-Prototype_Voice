@@ -2,7 +2,6 @@ streamlit
 websockets
 python-dotenv
 langchain
+langchain-community
 openai
 faiss-cpu
-# ...any other dependencies
-
