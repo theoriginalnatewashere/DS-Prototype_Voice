@@ -1,0 +1,8 @@
+streamlit
+websockets
+python-dotenv
+langchain
+openai
+faiss-cpu
+# ...any other dependencies
+
