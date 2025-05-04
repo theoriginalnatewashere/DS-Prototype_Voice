@@ -1,0 +1,11 @@
+Category,Subcategory,Details,Privacy_Level,Spending_Level,Purchase_Frequency
+Food,Diet,"Type: Vegetarian, locally sourced",Trusted Stores,Medium,Weekly
+Food,Recipe,"Type: Falafel, Lasagna",Trusted Stores,Low,Weekly
+Food,Company,"Brand: Ekoplaza, Marqt",Trusted Stores,Medium,Bi-weekly
+Clothing,Casual T-Shirts,Size: Medium,Trusted Stores,Medium,Monthly
+Clothing,Running Shoes,Size: 43,Trusted Stores,Medium,Yearly
+E-Commerce,Electronics,Item: Smartwatch,Only Me,High,Rarely
+E-Commerce,Sports,"Item: Running shoes, yoga mat",Only Me,Very High,Every 2-3 years
+E-Commerce,Fashion,"Item: COS, &Other Stories",Only Me,Very High,Every 2-3 years
+Travel,Destination,"Location: Barcelona, Tokyo, Amsterdam",Trusted Stores,Low,Monthly
+Travel,Time,"Month: May, June, September",Trusted Stores,Medium,Annual Vacation
