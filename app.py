@@ -1,3 +1,4 @@
+pip install websockets
 import streamlit as st
 
 # Set page config FIRST, before any other Streamlit commands
